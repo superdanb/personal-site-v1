@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Product & entrepreneurship
+    title: Actional and Non Fluff Product Advice
     subtitle: >-
       I'm a second time co-founder, angel investor, and advisory board member
       with experience from multiple startups, Lyft and Facebook.
