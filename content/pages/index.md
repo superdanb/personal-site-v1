@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Product & entrepreneurship
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I'm a second time co-founder, angel investor, and advisory board member
+      with experience from multiple startups, Lyft and Facebook.
     actions:
       - label: Contact Me
         url: /contact
