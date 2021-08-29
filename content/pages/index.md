@@ -5,7 +5,9 @@ sections:
     title: Actional and Non Fluff Product Advice
     subtitle: >-
       I'm a second time co-founder, angel investor, and advisory board member
-      with experience from multiple startups, Lyft and Facebook.
+      with experience from multiple startups, Lyft and Facebook. I'm working
+      with product leaders on the toughest challenges their organizations and
+      products have, as well as career advice, interview preps and so forth.
     actions:
       - label: Contact Me
         url: /contact
